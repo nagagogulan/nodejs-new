@@ -24,8 +24,8 @@ jobs:
       uses: docker/login-action@v2
       with:
           ecr: auto
-          username: YOUR_USER_NAME
-          password: YOUR_PASSWORD
+          username: santhosh@19
+          password: dckr_pat_9qnP4v8nPgrZKqFaz8Uu63UFD3U
 
 
 
